@@ -1,4 +1,4 @@
-#ITLA Genealogic Tree
+#ITLA Family Tree
 
 This is an academic assignment created by Professor Raydelto Hernandez for his students at Las Americas Institute of technology (www.itla.edu.do).
 
